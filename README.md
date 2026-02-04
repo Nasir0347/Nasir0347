@@ -58,7 +58,7 @@ I have strong expertise in **PHP, Laravel, React.js, Next.js, WordPress, and Woo
 - GitHub
 - Bitbucket
 - Docker
-- AWS (Familiar)
+- AWS
 
 ### Development Practices
 - Object-Oriented Programming (OOP)
