@@ -10,7 +10,7 @@
 
 ## 🚀 Professional Summary
 
-I am a highly skilled **Full Stack Web Developer** with over **5+ years of experience** in designing, developing, and optimizing modern web applications. I specialize in building **scalable, secure, and high-performance solutions** using modern frontend and backend technologies.
+I am a highly skilled **Full Stack Web Developer** with over **6+ years of experience** in designing, developing, and optimizing modern web applications. I specialize in building **scalable, secure, and high-performance solutions** using modern frontend and backend technologies.
 
 I have strong expertise in **PHP, Laravel, React.js, Next.js, WordPress, and WooCommerce**, along with hands-on experience in RESTful APIs, database design, and third-party integrations. I am passionate about clean architecture, performance optimization, and delivering reliable software products.
 
@@ -21,9 +21,9 @@ I have strong expertise in **PHP, Laravel, React.js, Next.js, WordPress, and Woo
 ### Backend Technologies
 - Laravel
 - Core PHP
-- ASP.NET Web Forms
+- ASP.NET 
 - Node.js
-- **Express.js**
+- Express.js
 - RESTful API Development
 
 ### Frontend Technologies
